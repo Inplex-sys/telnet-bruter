@@ -49,7 +49,7 @@ void combos_init(void)
     combo_add("guest", "123456");
     combo_add("admin", "1234");
     combo_add("admin", "12345");
-    combo_add("admin", "123456")
+    combo_add("admin", "123456");
     combo_add("hikvision", "hikvision");
     combo_add("root", "toor");
     combo_add("", "");
