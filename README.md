@@ -1,5 +1,9 @@
 # Telnet Bruter
 
+This tool is used for creating a telnet combo list by
+using an list of ip adress. It will try a dozen of default
+password and send you the result in stdout and in a file.
+
 ### Installation
 Install the app on the server
 ```sh
